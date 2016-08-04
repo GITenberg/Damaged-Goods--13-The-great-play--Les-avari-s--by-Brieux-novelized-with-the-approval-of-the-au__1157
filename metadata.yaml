@@ -1,0 +1,37 @@
+_repo: Damaged-Goods--13-The-great-play--Les-avari-s--by-Brieux-novelized-with-the-approval-of-the-au__1157
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Brieux, Eugène
+    alias: Brieux, Eugene
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '539'
+    url: http://www.gutenberg.org/2009/agents/539
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Brieux
+  - agent_name: Sinclair, Upton
+    aliases:
+    - Garrison, Frederick
+    - Fitch, Clarke
+    - Sinclair, Upton Beall
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sexually transmitted diseases -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "Damaged Goods\r\nThe great play \"Les avariés\" by Brieux, novelized with\
+  \ the approval of the author"
+url: http://www.gutenberg.org/ebooks/1157
