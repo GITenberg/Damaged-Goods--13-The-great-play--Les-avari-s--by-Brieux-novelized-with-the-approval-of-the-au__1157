@@ -1,5 +1,8 @@
 _repo: Damaged-Goods--13-The-great-play--Les-avari-s--by-Brieux-novelized-with-the-approval-of-the-au__1157
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Brieux, Eugène
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/88
     wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1157#Damaged-Goods--13-The-great-play--Les-avari-s--by-Brieux-novelized-with-the-approval-of-the-au_
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
 identifiers:
